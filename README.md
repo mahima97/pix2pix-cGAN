@@ -4,7 +4,7 @@ Pix2Pix condistional GAN was implemented for image to image translation in Pytor
 
 1st row: Target / 2nd row: Input / 3rd row: Generated|
 |:---:|
-|![](results/sample_3.png)|
+|![](results/face-sample.png)|
 |![](results/generated-images.jpg)|
 
 
